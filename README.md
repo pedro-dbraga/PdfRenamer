@@ -49,4 +49,4 @@ Something like this -
 old_names ; new_names
 C:\Users\UserName\Desktop\workspace\pdfs\pdf1.pdf ; C:\Users\UserName\Desktop\workspace\pdfs\Pedro.pdf
 
-The second script will rename every pdf in this sheet to the same pdf new name column in the line
+If everything is ok the script will rename every pdf in pdf's folder to the same new name column in the sheet line
